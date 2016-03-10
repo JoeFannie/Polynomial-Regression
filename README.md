@@ -19,4 +19,4 @@ Since I use small group of data, so the second method is better and I put my res
 5. Degree=9 Sample=10 Lamda=exp(-15)   
 ![image](https://github.com/JoeFannie/Polynomial-Regression/edit/master/results/ls9d10swithRe.png)   
    
-You can see results for other methods in the /results folder.\n
+You can see results for other methods in the /results folder.
