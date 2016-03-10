@@ -1,6 +1,6 @@
 # Polynomial-Regression
 polynomial regression for single variable
-I use 2 methods.\n
+I use 2 methods./n
 1. Gradient descent\n
   The code includes main.py and Regression.py.\n
 2. Directly solving the matrix equation by least quare\n
