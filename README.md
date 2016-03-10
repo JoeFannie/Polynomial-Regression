@@ -1,11 +1,11 @@
-# Polynomial-Regression
-polynomial regression for single variable
-I use 2 methods./n
-1. Gradient descent\n
-  The code includes main.py and Regression.py.\n
-2. Directly solving the matrix equation by least quare\n
-  The code includes LSmain.py and LSRegression.py.\n
-3. I also use functions in lib to run the expriment. The code is Polyfit&&Lasso.py.\n
+# Polynomial-Regression  
+polynomial regression for single variable  
+I use 2 methods.   
+1. Gradient descent   
+  The code includes main.py and Regression.py.   
+2. Directly solving the matrix equation by least quare   
+  The code includes LSmain.py and LSRegression.py.   
+3. I also use functions in lib to run the expriment. The code is Polyfit&&Lasso.py.   
 
 Since I use small group of data, so the second method is better and I put my results here\n
 1. Degree=3 Sample=10 Lamda=0\n
