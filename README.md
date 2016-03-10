@@ -1,3 +1,4 @@
+曹佳炯 21531076
 # Polynomial-Regression  
 polynomial regression for single variable  
 I use 2 methods.   
